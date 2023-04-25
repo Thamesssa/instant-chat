@@ -6,8 +6,9 @@ const Login = () => {
   <div className="hero-content text-center">
     <div className="max-w-md">
       <h1 className="text-5xl font-bold">Hello there 👋</h1>
-      <p className="py-6">          Join the conversation, meet new people, and make connections in one shared room.</p>
-      <button className="btn btn-primary">Login With Google</button>
+      <p className="py-6">Join the conversation, meet new people, and make connections in one shared room.</p>
+      <button className="btn">Login With Google</button>
+      
     </div>
   </div>
 </div>
